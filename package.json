@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "webpack": "4"
+  },
+  "devDependencies": {
+    "webpack-cli": "4"
+  }
+}
